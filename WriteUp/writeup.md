@@ -12,9 +12,9 @@ Accountability:
 The visible task list in the widget helps users hold themselves accountable, acting as a reminder and motivator to stay on top of their tasks.
 
 To utilize the Todo widget:
-Input task description and click "Add Task."
-Mark tasks as complete by ticking the checkbox.
-For more options, click the kebab menu (three vertical dots) beside each task.
-Choose to delete or edit tasks from the menu.
+1.Input task description and click "Add Task."
+2.Mark tasks as complete by ticking the checkbox.
+3.For more options, click the kebab menu (three vertical dots) beside each task.
+4.Choose to delete or edit tasks from the menu.
 
 Users may easily manage their chores, increase productivity, and maintain better organisation in their everyday life by putting the Todo widget into the planner app.
