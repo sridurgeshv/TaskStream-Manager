@@ -1,4 +1,4 @@
-Introduction: 
+                                                               **** Introduction ****
 
 The Todo widget I developed for the planning app is a valuable tool that greatly improves productivity and organization. It offers users a dedicated area to efficiently manage their tasks. This write-up effectively outlines the reasons behind its creation and its functionality.
 
