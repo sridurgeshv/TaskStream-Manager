@@ -10,5 +10,5 @@ In every web-based project, it is essential to incorporate basic default styles 
 Finally, we have deployed our application on the Internet using Google Firebase, a reliable web hosting provider with powerful features for app deployment, real-time database, authentication, and cloud functions, ensuring seamless scalability and performance.
 
 You can access the application by following this link:\
-[To-Do Application Link](https://sunny-plannerwidget.web.app)
+[To-Do Application Link](https://planner-71632.web.app)
 
